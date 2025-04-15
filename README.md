@@ -44,9 +44,8 @@ https://github.com/user-attachments/assets/8c221fe8-41bd-4c9a-b0b9-de7d697f5fcb
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Axios](https://axios-http.com/docs/intro) - JS library
 - [React Router Dom](https://reactrouter.com/en/main) - React library
+- [Axios](https://axios-http.com/docs/intro) - JS library
 
 ### What I learned
 
